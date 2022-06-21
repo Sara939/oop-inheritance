@@ -56,3 +56,6 @@ class Middlesschoolstudent extends Student{
 
 let newmiddlestudent= new Middlesschoolstudent ("Sara", "n", 293746587);
 
+
+
+//questions 14-25 on "classes" repositoery////////////////////////////////////////////////////////////////////
